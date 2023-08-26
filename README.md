@@ -1,4 +1,4 @@
-Energy Generation Analysis Project
+###Energy Generation Analysis Project
 
 Project Overview:
 
